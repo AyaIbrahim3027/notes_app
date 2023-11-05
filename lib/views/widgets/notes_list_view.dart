@@ -5,7 +5,7 @@ import 'custom_note_item.dart';
 class NotesListView extends StatelessWidget {
   const NotesListView({Key? key}) : super(key: key);
 
-  // final data = const[];
+
 
   @override
   Widget build(BuildContext context) {
