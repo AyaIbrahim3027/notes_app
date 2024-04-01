@@ -1,6 +1,6 @@
 # notes_app
 
-## Getting Started
+## App Features:
 
 - Add notes
 - Edit notes
